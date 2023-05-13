@@ -3,3 +3,13 @@ minimal_mistakes_skin: "dirt"
 title: "Code for Career"
 title_separator: "|"
 description: "We learn, share and grow in all IT technology"
+
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
