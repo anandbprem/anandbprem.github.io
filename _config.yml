@@ -1,1 +1,5 @@
 remote_theme : "mmistakes/minimal-mistakes"
+minimal_mistakes_skil: "dirt"
+title: "Code for Career"
+title_separator: "|"
+description: "We learn, share and grow in all IT technology"
