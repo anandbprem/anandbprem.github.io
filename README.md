@@ -1,3 +1,11 @@
+---
+
+title: My Intro
+description: "This is my Bio, profile, portfolio"
+permalink: /
+
+---
+
 <h1 align="center">Hi 👋, I'm Anand B</h1>
 <h3 align="center">A passionate frontend, backend developer with multi cloud experience and multiple devops tools from Bangalore, Karanataka, India</h3>
 
